@@ -34,7 +34,7 @@ Deployed on Oracle Cloud Infrastructure
 Live and Operational - 2025 to Present
 
 <p align="center">
-  <img src="preview.png" width="400" alt="SkiltexBot interface">
+  <img src="Preview.png" width="400" alt="SkiltexBot interface">
   <br>
   <em>Live bot interface — deployed and operational</em>
 </p>
