@@ -9,6 +9,12 @@ A live Solana trading bot built and deployed independently via Telegram.
 - Dual Wallet architecture - bot generated or external wallet
 - Transfer functionality
 
+  <p align="center">
+  <img src="Preview.png" width="400" alt="SkiltexBot interface">
+  <br>
+  <em>Live bot interface — deployed and operational</em>
+</p>
+
 ## Features
 - Automated risk scoring and rug pull detection
 - Low fee model
@@ -32,12 +38,6 @@ Deployed on Oracle Cloud Infrastructure
 
 ## Status
 Live and Operational - 2025 to Present
-
-<p align="center">
-  <img src="Preview.png" width="400" alt="SkiltexBot interface">
-  <br>
-  <em>Live bot interface — deployed and operational</em>
-</p>
 
 ## Roadmap 
 - Phase 1: Solana trading - live
