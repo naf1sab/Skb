@@ -1,5 +1,5 @@
 # Solana Trading Bot
-A live Solana trading bot built and deployed independently via Telegram. Name undisclosed, as the work speaks for itself.
+A live Solana trading bot built and deployed independently via Telegram.
 
 ## What it does
 - Real on-chain trade execution via Telegram
@@ -32,6 +32,12 @@ Deployed on Oracle Cloud Infrastructure
 
 ## Status
 Live and Operational - 2025 to Present
+
+<p align="center">
+  <img src="preview.png" width="400" alt="SkiltexBot interface">
+  <br>
+  <em>Live bot interface — deployed and operational</em>
+</p>
 
 ## Roadmap 
 - Phase 1: Solana trading - live
