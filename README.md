@@ -27,7 +27,7 @@ A live Solana trading bot built and deployed independently via Telegram.
 -  Telegram Bot API
 -  Oracle Cloud Infrastructure
 -  Ubuntu 22.04
--  webSocket price feeds
+-  Webhook
 -  DexScreener
 -  Solscan
 -  Mev Protection(Jito)
